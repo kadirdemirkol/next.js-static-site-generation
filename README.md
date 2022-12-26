@@ -1,1 +1,1 @@
-# next.js-static-site-generation
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
